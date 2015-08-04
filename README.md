@@ -1,2 +1,5 @@
 # dotfiles
-My various configuration files.
+Ben Friedland's ~/dotfiles directory.
+
+Configuration for vim, tmux, etc. 
+
